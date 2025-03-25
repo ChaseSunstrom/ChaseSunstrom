@@ -37,7 +37,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ChaseSunstrom/awesome-project">
+  <a href="https://github.com/ChaseSunstrom/cforge">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaseSunstrom&repo=cforge&theme=radical" />
   </a>
 </div>
