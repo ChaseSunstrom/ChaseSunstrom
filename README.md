@@ -26,32 +26,32 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaseSunstrom&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseSunstrom&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaseSunstrom&show_icons=true&theme=nord&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseSunstrom&layout=compact&theme=nord" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaseSunstrom&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaseSunstrom&theme=nord" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/ChaseSunstrom/cforge">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaseSunstrom&repo=cforge&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaseSunstrom&repo=cforge&theme=nord" />
   </a>
 </div>
 
 ## 🔮 Contributions
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaseSunstrom&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaseSunstrom&theme=nord" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaseSunstrom&theme=radical&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaseSunstrom&theme=nord&column=7" />
 </div>
 
 ## 📫 Connect With Me
