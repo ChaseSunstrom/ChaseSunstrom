@@ -40,8 +40,6 @@
   </a>
 </div>
 
-## 🔮 Contributions
-
 ## 📫 Connect With Me
 
 <p align="center">
