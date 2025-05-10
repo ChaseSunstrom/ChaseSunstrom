@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=ChaseSunstrom&color=blue" alt="Profile views">
 </p>
 
-## 💻 Technologies & Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -23,16 +21,9 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaseSunstrom&show_icons=true&theme=gruvbox&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaseSunstrom&layout=compact&theme=gruvbox" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaseSunstrom&theme=gruvbox" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaseSunstrom&theme=gruvbox" />
 </div>
-
-## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/ChaseSunstrom/cforge">
