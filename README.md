@@ -48,12 +48,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaseSunstrom&theme=gruvbox" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaseSunstrom&theme=gruvbox&column=7" />
-</div>
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -63,11 +57,8 @@
   <a href="https://www.linkedin.com/in/chase-sunstrom-326040279">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
