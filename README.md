@@ -40,8 +40,6 @@
   </a>
 </div>
 
-## 📫 Connect With Me
-
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
