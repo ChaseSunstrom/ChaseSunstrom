@@ -1,32 +1,21 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there, I'm Chase Sunstrom!
+<!-- The images in assets/ are generated from chasesunstrom.dev's own code: see scripts/readme. -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Developer;Problem+Solver;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
-</div>
+<a href="https://www.chasesunstrom.dev"><img src="assets/hero.svg" width="100%" alt="Chase Sunstrom — software engineer and security consultant. I work close to the metal — C, C++, Rust and .NET — on compilers and build tools, bare-metal firmware, and the architecture of AI systems. Then I try to break it."></a>
 
 <p align="center">
-  <a href="https://github.com/ChaseSunstrom">
-    <img src="https://img.shields.io/github/followers/ChaseSunstrom?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ChaseSunstrom&color=blue" alt="Profile views">
+  <a href="https://www.chasesunstrom.dev"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-site-light.svg"><img src="assets/btn-site.svg" height="40" alt="chasesunstrom.dev"></picture></a>
+  <a href="https://www.chasesunstrom.dev/chase-sunstrom-resume.pdf"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-resume-light.svg"><img src="assets/btn-resume.svg" height="40" alt="Résumé (PDF)"></picture></a>
+  <a href="https://www.linkedin.com/in/chase-sunstrom-326040279/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn"></picture></a>
+  <a href="mailto:resume.record819@passmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg"><img src="assets/btn-email.svg" height="40" alt="Email"></picture></a>
 </p>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/heading-projects-light.svg"><img src="assets/heading-projects.svg" width="100%" alt="Things I’ve built, from the metal up."></picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <a href="https://github.com/ChaseSunstrom/volt-bootstrap"><img src="assets/card-volt.svg" width="32%" alt="Volt — a systems language with no runtime and nothing hidden."></a>
+  <a href="https://github.com/ChaseSunstrom/cforge"><img src="assets/card-cforge.svg" width="32%" alt="cforge — Cargo-like simplicity for C and C++."></a>
+  <a href="https://github.com/ChaseSunstrom/rust-raytracer"><img src="assets/card-raytracer.svg" width="32%" alt="rust-raytracer — light, bounced one ray at a time."></a>
+  <a href="https://github.com/ChaseSunstrom/nixie"><img src="assets/card-nixie.svg" width="32%" alt="Nixie — a reusable NixOS platform: one ISO, two profiles."></a>
+  <a href="https://github.com/ChaseSunstrom/foreman"><img src="assets/card-foreman.svg" width="32%" alt="Foreman — a discipline layer for coding agents."></a>
+  <a href="https://github.com/ChaseSunstrom/jarvis"><img src="assets/card-jarvis.svg" width="32%" alt="Jarvis — a private, cinematic AI assistant that runs the house."></a>
 </p>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaseSunstrom&theme=gruvbox" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ChaseSunstrom/cforge">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ChaseSunstrom&repo=cforge&theme=gruvbox" />
-  </a>
-</div>
