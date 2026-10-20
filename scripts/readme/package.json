@@ -1,0 +1,14 @@
+{
+  "name": "profile-readme-art",
+  "private": true,
+  "type": "module",
+  "description": "Builds the profile README's SVGs from the portfolio site's own drawing code.",
+  "scripts": {
+    "build": "node extract.mjs && node build.mjs"
+  },
+  "dependencies": {
+    "esbuild": "0.24.2",
+    "fontkit": "2.0.4",
+    "playwright-core": "1.56.1"
+  }
+}
